@@ -6,9 +6,6 @@ import org.springframework.beans.factory.config.ConfigurableListableBeanFactory
 import org.springframework.context.ApplicationContext
 import org.springframework.context.ApplicationContextAware
 
-/**
- * Created by jzietsman on 3/10/16.
- */
 class GraphBuilder implements ApplicationContextAware {
 
     @Lazy
